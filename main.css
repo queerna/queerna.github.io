@@ -1,5 +1,5 @@
 body {
-    background: #dddddd;
+    background: #000000;
     margin: 24px;
 }
 
@@ -8,7 +8,7 @@ body {
     display: inline-block;
     padding: 24px 32px;
     border-radius: 30px;
-    background: white;
+    background: #A880D6;
 
 }
 
